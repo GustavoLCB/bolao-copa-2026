@@ -1,0 +1,105 @@
+grupo_fase,time_mandante,bandeira_mandante,time_visitante,bandeira_visitante,data_hora,multiplicador
+Grupo A,México,mx,África do Sul,za,2026-06-11T16:00:00,1
+Grupo A,Coreia do Sul,kr,República Tcheca,cz,2026-06-11T23:00:00,1
+Grupo A,República Tcheca,cz,África do Sul,za,2026-06-18T13:00:00,1
+Grupo A,México,mx,Coreia do Sul,kr,2026-06-18T22:00:00,1
+Grupo A,África do Sul,za,Coreia do Sul,kr,2026-06-24T22:00:00,1
+Grupo A,República Tcheca,cz,México,mx,2026-06-24T22:00:00,1
+Grupo B,Canadá,ca,Bósnia e Herzegovina,ba,2026-06-12T16:00:00,1
+Grupo B,Catar,qa,Suíça,ch,2026-06-13T16:00:00,1
+Grupo B,Suíça,ch,Bósnia e Herzegovina,ba,2026-06-18T16:00:00,1
+Grupo B,Canadá,ca,Catar,qa,2026-06-18T19:00:00,1
+Grupo B,Bósnia e Herzegovina,ba,Catar,qa,2026-06-24T16:00:00,1
+Grupo B,Suíça,ch,Canadá,ca,2026-06-24T16:00:00,1
+Grupo C,Brasil,br,Marrocos,ma,2026-06-13T19:00:00,1
+Grupo C,Haiti,ht,Escócia,gb-sct,2026-06-13T22:00:00,1
+Grupo C,Escócia,gb-sct,Marrocos,ma,2026-06-19T19:00:00,1
+Grupo C,Brasil,br,Haiti,ht,2026-06-19T21:30:00,1
+Grupo C,Marrocos,ma,Haiti,ht,2026-06-24T19:00:00,1
+Grupo C,Escócia,gb-sct,Brasil,br,2026-06-24T19:00:00,1
+Grupo D,Estados Unidos,us,Paraguai,py,2026-06-12T22:00:00,1
+Grupo D,Austrália,au,Turquia,tr,2026-06-14T01:00:00,1
+Grupo D,Turquia,tr,Paraguai,py,2026-06-19T20:00:00,1
+Grupo D,Estados Unidos,us,Austrália,au,2026-06-19T23:00:00,1
+Grupo D,Paraguai,py,Austrália,au,2026-06-25T20:00:00,1
+Grupo D,Turquia,tr,Estados Unidos,us,2026-06-25T20:00:00,1
+Grupo E,Alemanha,de,Curaçao,cw,2026-06-14T14:00:00,1
+Grupo E,Costa do Marfim,ci,Equador,ec,2026-06-14T20:00:00,1
+Grupo E,Alemanha,de,Costa do Marfim,ci,2026-06-20T17:00:00,1
+Grupo E,Equador,ec,Curaçao,cw,2026-06-20T21:00:00,1
+Grupo E,Curaçao,cw,Costa do Marfim,ci,2026-06-25T14:00:00,1
+Grupo E,Equador,ec,Alemanha,de,2026-06-25T14:00:00,1
+Grupo F,Holanda,nl,Japão,jp,2026-06-14T17:00:00,1
+Grupo F,Suécia,se,Tunísia,tn,2026-06-14T23:00:00,1
+Grupo F,Holanda,nl,Suécia,se,2026-06-20T14:00:00,1
+Grupo F,Tunísia,tn,Japão,jp,2026-06-21T01:00:00,1
+Grupo F,Japão,jp,Suécia,se,2026-06-25T20:00:00,1
+Grupo F,Tunísia,tn,Holanda,nl,2026-06-25T20:00:00,1
+Grupo G,Bélgica,be,Egito,eg,2026-06-15T16:00:00,1
+Grupo G,Irã,ir,Nova Zelândia,nz,2026-06-15T22:00:00,1
+Grupo G,Bélgica,be,Irã,ir,2026-06-21T16:00:00,1
+Grupo G,Nova Zelândia,nz,Egito,eg,2026-06-21T22:00:00,1
+Grupo G,Egito,eg,Irã,ir,2026-06-26T16:00:00,1
+Grupo G,Nova Zelândia,nz,Bélgica,be,2026-06-26T16:00:00,1
+Grupo H,Espanha,es,Cabo Verde,cv,2026-06-15T13:00:00,1
+Grupo H,Arábia Saudita,sa,Uruguai,uy,2026-06-15T19:00:00,1
+Grupo H,Espanha,es,Arábia Saudita,sa,2026-06-21T13:00:00,1
+Grupo H,Uruguai,uy,Cabo Verde,cv,2026-06-21T19:00:00,1
+Grupo H,Cabo Verde,cv,Arábia Saudita,sa,2026-06-26T21:00:00,1
+Grupo H,Uruguai,uy,Espanha,es,2026-06-26T21:00:00,1
+Grupo I,França,fr,Senegal,sn,2026-06-16T16:00:00,1
+Grupo I,Iraque,iq,Noruega,no,2026-06-16T19:00:00,1
+Grupo I,França,fr,Iraque,iq,2026-06-22T16:00:00,1
+Grupo I,Noruega,no,Senegal,sn,2026-06-22T19:00:00,1
+Grupo I,Senegal,sn,Iraque,iq,2026-06-26T16:00:00,1
+Grupo I,Noruega,no,França,fr,2026-06-26T16:00:00,1
+Grupo J,Argentina,ar,Argélia,dz,2026-06-16T22:00:00,1
+Grupo J,Áustria,at,Jordânia,jo,2026-06-17T01:00:00,1
+Grupo J,Argentina,ar,Áustria,at,2026-06-22T14:00:00,1
+Grupo J,Jordânia,jo,Argélia,dz,2026-06-23T00:00:00,1
+Grupo J,Argélia,dz,Áustria,at,2026-06-27T23:00:00,1
+Grupo J,Jordânia,jo,Argentina,ar,2026-06-27T23:00:00,1
+Grupo K,Portugal,pt,Congo DR,cd,2026-06-17T14:00:00,1
+Grupo K,Uzbequistão,uz,Colômbia,co,2026-06-17T23:00:00,1
+Grupo K,Colômbia,co,Portugal,pt,2026-06-27T16:00:00,1
+Grupo K,Congo DR,cd,Uzbequistão,uz,2026-06-27T19:00:00,1
+Grupo K,Uzbequistão,uz,Portugal,pt,2026-06-22T19:00:00,1
+Grupo K,Colômbia,co,Congo DR,cd,2026-06-22T22:00:00,1
+Grupo L,Inglaterra,gb-eng,Croácia,hr,2026-06-17T17:00:00,1
+Grupo L,Gana,gh,Panamá,pa,2026-06-17T20:00:00,1
+Grupo L,Inglaterra,gb-eng,Gana,gh,2026-06-23T17:00:00,1
+Grupo L,Panamá,pa,Croácia,hr,2026-06-23T20:00:00,1
+Grupo L,Panamá,pa,Inglaterra,gb-eng,2026-06-27T18:00:00,1
+Grupo L,Croácia,hr,Gana,gh,2026-06-27T19:00:00,1
+Fase de 32,A Definir,xx,A Definir,xx,2026-06-28T13:00:00,2
+Fase de 32,A Definir,xx,A Definir,xx,2026-06-28T17:00:00,2
+Fase de 32,A Definir,xx,A Definir,xx,2026-06-28T21:00:00,2
+Fase de 32,A Definir,xx,A Definir,xx,2026-06-29T13:00:00,2
+Fase de 32,A Definir,xx,A Definir,xx,2026-06-29T17:00:00,2
+Fase de 32,A Definir,xx,A Definir,xx,2026-06-29T21:00:00,2
+Fase de 32,A Definir,xx,A Definir,xx,2026-06-30T13:00:00,2
+Fase de 32,A Definir,xx,A Definir,xx,2026-06-30T17:00:00,2
+Fase de 32,A Definir,xx,A Definir,xx,2026-06-30T21:00:00,2
+Fase de 32,A Definir,xx,A Definir,xx,2026-07-01T13:00:00,2
+Fase de 32,A Definir,xx,A Definir,xx,2026-07-01T17:00:00,2
+Fase de 32,A Definir,xx,A Definir,xx,2026-07-01T21:00:00,2
+Fase de 32,A Definir,xx,A Definir,xx,2026-07-02T13:00:00,2
+Fase de 32,A Definir,xx,A Definir,xx,2026-07-02T17:00:00,2
+Fase de 32,A Definir,xx,A Definir,xx,2026-07-03T16:00:00,2
+Fase de 32,A Definir,xx,A Definir,xx,2026-07-03T20:00:00,2
+Oitavas de Final,A Definir,xx,A Definir,xx,2026-07-04T13:00:00,3
+Oitavas de Final,A Definir,xx,A Definir,xx,2026-07-04T17:00:00,3
+Oitavas de Final,A Definir,xx,A Definir,xx,2026-07-05T13:00:00,3
+Oitavas de Final,A Definir,xx,A Definir,xx,2026-07-05T17:00:00,3
+Oitavas de Final,A Definir,xx,A Definir,xx,2026-07-06T13:00:00,3
+Oitavas de Final,A Definir,xx,A Definir,xx,2026-07-06T17:00:00,3
+Oitavas de Final,A Definir,xx,A Definir,xx,2026-07-07T13:00:00,3
+Oitavas de Final,A Definir,xx,A Definir,xx,2026-07-07T17:00:00,3
+Quartas de Final,A Definir,xx,A Definir,xx,2026-07-09T17:00:00,4
+Quartas de Final,A Definir,xx,A Definir,xx,2026-07-10T17:00:00,4
+Quartas de Final,A Definir,xx,A Definir,xx,2026-07-11T13:00:00,4
+Quartas de Final,A Definir,xx,A Definir,xx,2026-07-11T17:00:00,4
+Semifinal,A Definir,xx,A Definir,xx,2026-07-14T17:00:00,5
+Semifinal,A Definir,xx,A Definir,xx,2026-07-15T17:00:00,5
+Terceiro Lugar,A Definir,xx,A Definir,xx,2026-07-18T17:00:00,5
+Final,A Definir,xx,A Definir,xx,2026-07-19T16:00:00,10
