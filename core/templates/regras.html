@@ -33,12 +33,47 @@
             </div>
             <div class="card-body p-4">
                 <h5 class="card-title fw-bold">Como funciona a pontuação?</h5>
-                <p class="card-text">Neste bolão, a sua habilidade em prever os resultados será recompensada com diferentes pontuações. Veja como funciona:</p>
+                <p class="card-text">Neste bolão, a sua habilidade em prever os resultados será recompensada com diferentes pontuações. Veja como funciona cada tipo de acerto:</p>
                 
                 <ul class="list-group list-group-flush mb-3">
-                    <li class="list-group-item">🎯 <strong>Placar Exato (10 Pontos):</strong> Você acertou o time vencedor e a quantidade exata de gols de cada time.</li>
-                    <li class="list-group-item">⚽ <strong>Vencedor e Saldo (7 Pontos):</strong> Você acertou o time vencedor e a diferença de gols entre eles, mas não o placar exato.</li>
-                    <li class="list-group-item">✔️ <strong>Vencedor (5 Pontos):</strong> Você acertou quem venceu a partida (ou se foi empate), mas errou o placar e o saldo.</li>
+                    <li class="list-group-item">🎯 <strong>Placar Exato (Na mosca) - 5 Pontos:</strong> Acerta o time vencedor e os gols exatos de ambas as seleções. <em>(Ex: Palpite Brasil 3x1 México, Jogo Brasil 3x1 México)</em></li>
+                    <li class="list-group-item">⚽ <strong>Vencedor + Saldo de Gols - 3 Pontos:</strong> Acerta o vencedor e a diferença exata de gols, mas erra o placar. <em>(Ex: Palpite Brasil 2x0 México, Jogo Brasil 3x1 México -> Saldo +2)</em></li>
+                    <li class="list-group-item">⚖️ <strong>Empate (Sem placar exato) - 2 Pontos:</strong> Acerta que a partida terminou empatada, mas erra os gols. <em>(Ex: Palpite Brasil 0x0 México, Jogo Brasil 1x1 México)</em></li>
+                    <li class="list-group-item">🥅 <strong>Vencedor + Gols de 1 Time - 2 Pontos:</strong> Acerta o vencedor E os gols exatos de apenas um dos times. <em>(Ex: Palpite Brasil 3x0 México ou Brasil 2x1 México, Jogo Brasil 3x1 México)</em></li>
+                    <li class="list-group-item">✔️ <strong>Vencedor Simples - 1 Ponto:</strong> Acerta apenas quem ganhou o jogo, mas erra o saldo e os gols. <em>(Ex: Palpite Brasil 1x0 México, Jogo Brasil 3x1 México)</em></li>
+                    <li class="list-group-item text-danger">❌ <strong>Erro Total - 0 Pontos:</strong> Aposta no time perdedor ou aposta em empate havendo um vencedor.</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="card shadow-sm mb-4 border-0">
+            <div class="card-header bg-success text-white">
+                <h5 class="mb-0">📈 Multiplicadores por Fase</h5>
+            </div>
+            <div class="card-body p-4">
+                <p>A tensão aumenta e os pontos também! Os pontos obtidos em cada jogo serão multiplicados de acordo com a fase do torneio. Quanto mais longe o campeonato chegar, mais os seus palpites valem:</p>
+                
+                <ul class="list-group list-group-flush mb-3">
+                    <li class="list-group-item d-flex justify-content-between align-items-center">
+                        Fase de Grupos
+                        <span class="badge bg-secondary rounded-pill">Peso x1</span>
+                    </li>
+                    <li class="list-group-item d-flex justify-content-between align-items-center">
+                        Dezesseis-avos e Oitavas de Final
+                        <span class="badge bg-secondary rounded-pill">Peso x2</span>
+                    </li>
+                    <li class="list-group-item d-flex justify-content-between align-items-center">
+                        Quartas de Final
+                        <span class="badge bg-secondary rounded-pill">Peso x3</span>
+                    </li>
+                    <li class="list-group-item d-flex justify-content-between align-items-center">
+                        Semifinais e Disputa de 3º Lugar
+                        <span class="badge bg-secondary rounded-pill">Peso x5</span>
+                    </li>
+                    <li class="list-group-item d-flex justify-content-between align-items-center">
+                        <strong>Grande Final</strong>
+                        <span class="badge bg-danger rounded-pill">Peso x10</span>
+                    </li>
                 </ul>
             </div>
         </div>
