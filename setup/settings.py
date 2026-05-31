@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-)&8gqdv+pymr7l&=1c4@x0#mjeom19p^fs58xui0l&$6_+bbd1
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['bolaodejogos.pythonanywhere.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
@@ -116,8 +116,7 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/6.0/howto/static-files/
 
 STATIC_URL = 'static/'
-import os
-STATIC_ROOT = os.path.join(BASE_DIR, 'static')
+STATIC_ROOT = BASE_DIR / 'static'
 
 LOGIN_REDIRECT_URL = 'home'
 LOGOUT_REDIRECT_URL = 'login'
